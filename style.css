@@ -1,0 +1,25 @@
+body {
+  background-color: #14213d;
+  border: 100px;
+  margin: auto;
+  padding: 10px;
+}
+table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 10px;
+  padding: 10px;
+}
+input {
+  background-color: #14213d;
+  color: #fca311;
+  border: 1px solid #fca311;
+  font-size: 25px;
+}
+input:hover {
+  background-color: #fca311;
+  color: #14213d;
+  transition: 0.5s;
+}
